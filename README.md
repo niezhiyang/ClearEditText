@@ -1,6 +1,7 @@
 # ClearEditText
 带有清除按钮的EditText
-##效果图
+
+## 效果图
 
 ![这里写图片描述](opts_chunk$set(width=300, height=600)http://img.blog.csdn.net/20170719163055592?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvcXFfMzM0MDgyMzU=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 ## 使用方式
